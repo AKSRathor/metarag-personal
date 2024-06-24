@@ -4,7 +4,6 @@ faiss-cpu
 langchain_community
 google.generativeai
 instructorEmbedding
-torch
 sentence-transformers==2.2.2
 langchain-google-genai
 flask
