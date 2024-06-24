@@ -2,7 +2,6 @@ import pickle
 import faiss
 from flask import Flask, request
 from flask_cors import CORS
-from fastapi import FastAPI
 import os
 from langchain_google_genai import GoogleGenerativeAI
 from langchain.vectorstores import FAISS
